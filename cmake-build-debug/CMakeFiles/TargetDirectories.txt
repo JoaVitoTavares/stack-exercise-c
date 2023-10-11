@@ -1,0 +1,3 @@
+/home/tavares/CLionProjects/stack-exercise/cmake-build-debug/CMakeFiles/stack_exercise.dir
+/home/tavares/CLionProjects/stack-exercise/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tavares/CLionProjects/stack-exercise/cmake-build-debug/CMakeFiles/rebuild_cache.dir
